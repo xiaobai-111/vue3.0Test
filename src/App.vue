@@ -18,7 +18,7 @@ import HelloWorld from '@/components/HelloWorld.vue'
 <style scoped lang="less">
 .contentBox{
   width: 100%;
-  height: 100%;
+
 
 }
 </style>
